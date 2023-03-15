@@ -1,0 +1,21 @@
+.ibaslik{
+	text-align: center;
+}
+
+table {
+    border: 1px solid #333;
+	width: 100%;
+}
+th {
+	background-color: lightgray;
+}
+
+  .table2{
+	width: 100%;
+	border-collapse: collapse;
+	border: 1px solid;
+  }
+
+  .tdd{
+	border: 1px solid;
+  }
